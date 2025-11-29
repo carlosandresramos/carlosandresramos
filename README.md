@@ -19,7 +19,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 
-<a href="https://wa.me/573203765372" target="_blank"><img height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WhatsApp_logo1.svg/2560px-WhatsApp_logo1.svg.png" target="_blank"></a>   
+<a href="https://wa.me/573203765372" target="_blank" rel="noopener noreferrer"><img height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WhatsApp_logo1.svg/2560px-WhatsApp_logo1.svg.png" target="_blank"></a>   
 
 <h3 align="left">Languajes y habilidades:</h3>
 <p align="left"> 
